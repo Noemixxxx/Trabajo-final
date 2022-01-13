@@ -1,0 +1,14 @@
+.img-product{
+    height: 100px;
+    width: 100px;
+}
+
+
+
+body {
+    background-color:rgb(28, 26, 53);
+    color: rgb(102, 100, 129);
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
